@@ -33,7 +33,10 @@ forma do pagamento débito pagamento avista vendedor Marcio
 
 controle do estoque
 
-1-35 aparelho de barbear 
+1-35 aparelho de barbear
+2-2 (dois)forninhos sugar
+
+ 
 
 
 
