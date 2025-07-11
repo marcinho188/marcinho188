@@ -36,7 +36,7 @@ controle do estoque
 1-35 aparelho de barbear
 2-2 (dois)forninhos sugar
 3-3 flanelas.
-
+4-2colchão de espuma casal 
  
 
 
