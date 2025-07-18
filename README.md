@@ -37,6 +37,7 @@ controle do estoque
 2-2 (dois)forninhos sugar
 3-3 flanelas 
 4-2 colchões de espuma casal 
+5- 2 aparelhos de televisão 32 polegadas Samsung no valor de 999,00 cada uma.
  
 
 
