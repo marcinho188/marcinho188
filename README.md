@@ -42,7 +42,10 @@ data 9/07/2025 20 aparelhos de barbear valor da unidade(1) 150,00
 valor da compra 3.000,00
 forma do pagamento débito pagamento avista vendedor Marcio
 data 16/07.2025
-2 aparelhos de televisão 32 polegadas 4k Samsung no valor de 999,00 cada uma. 
+2 aparelhos de televisão 32 polegadas 4k Samsung no valor de 999,00 cada uma.
+data 25/07/2025
+03-forninhos sugar 52 litros
+02-fogoes 6 bocas.
  
 
 
