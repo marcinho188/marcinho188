@@ -46,8 +46,16 @@ data 16/07.2025
 data 25/07/2025
 03-forninhos sugar 52 litros
 02-fogoes 6 bocas.
- 
 
+12- espaço para ENTREGAS de clientes da loja.
+
+
+1° cliente:jacarto Oliveira prestes 
+
+endereço: Artur SOTER Lopes Silva N° 24
+compra   data da entrega:31/07/2025 às 14:00
+02-colchoes de espuma solteiro 
+03- ursinho de pelúcia 
 
 
 
