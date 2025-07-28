@@ -52,10 +52,10 @@ data 25/07/2025
 
 1° cliente:jacarto Oliveira prestes 
 
-endereço: Artur SOTER Lopes Silva N° 24
-compra   data da entrega:31/07/2025 às 14:00
+endereço: Artur SOTER Lopes Silva N° 24 Rio pequeno São Paulo SP 
+compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W076 id:BR25777893666271
 02-colchoes de espuma solteiro 
-03- ursinho de pelúcia 
+03- ursinhos de pelúcia 
 
 
 
