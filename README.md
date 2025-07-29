@@ -46,11 +46,13 @@ data 16/07.2025
 data 25/07/2025
 03-forninhos sugar 52 litros
 02-fogoes 6 bocas.
+02-colchoes de espuma 
+03-ursinhos de pelúcia 
 
 12- espaço para ENTREGAS de clientes da loja.
 
 
-1° cliente:jacarto Oliveira prestes 
+1° cliente:jacarto Oliveira prestes-telefone:11-cel 920056987 residencial:1137248900
 
 endereço: Artur SOTER Lopes Silva N° 24 Rio pequeno São Paulo SP 
 compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W076 id:BR25777893666271
