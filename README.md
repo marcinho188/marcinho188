@@ -29,6 +29,7 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 10-fogões continental 6 bocas 
 10-aparelhos de televisão LG 43 polegadas 4k
 10-aparelhos de televisão Samsung 32 polegadas 4k
+50-monitores tv computador da marca Philco 21 polegadas 
 
 
 
