@@ -60,6 +60,29 @@ compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W0
 02-colchoes de espuma solteiro 
 03- ursinhos de pelúcia 
 
+IMPORTACION DE PRODUTOS NACIONAIS 
+12000-pares de sapatos vulcabras 
+5.000 Motobikes elétrica 
+2.000 caixas de ferramentas de alumínio 
+10.000 capacetes moderno para motociclista 
+5.000 pneus 155 Firestone 
+10.000 pneus 169 Pirelli 
+20.000 refrigerador Brastemp Bay me said 
+10.000 televisores 32 polegadas Philips 
+10.000 televisores 32 polegadas Philco 
+10.000 sofás 2 lugares de catraca 
+10.000 mesa 4 gavetas
+10.000 cadeiras giratória de couro ecológico 
+5.000 camisetas com estampadas
+5.000 camisetas lisas
+8.000 camisas social lisas
+8.000 camisas social estampada 
+10.000 calças jeans 
+10.000 calças social em cores diversas 
+10.000 mochilas masculina e feminina em couro ecológico em cores diversas 
+
+
+
 
 
 
