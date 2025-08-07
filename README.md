@@ -81,6 +81,20 @@ IMPORTACION DE PRODUTOS NACIONAIS
 10.000 calças social em cores diversas 
 10.000 mochilas masculina e feminina em couro ecológico em cores diversas 
 
+Exportation: lista de 3 paises 9 clientes in USA, CHINA, EUROPE 
+
+1- Amercans traditional espers
+2-Patrin follers staytion
+3-castition pretty solen
+
+1-Hauay chine
+2-Sunchine exportation
+3-Taysuan kongbit 
+
+1-Folly Dont esporte 
+2-For Beaut modelling
+3-Roller System skin
+
 
 
 
