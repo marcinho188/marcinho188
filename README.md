@@ -83,17 +83,17 @@ IMPORTACION DE PRODUTOS NACIONAIS
 
 Exportation: lista de 3 paises 9 clientes in USA, CHINA, EUROPE 
 
-1- Amercans traditional espers
-2-Patrin follers staytion
-3-castition pretty solen
+1- Amercans traditional espers americanstraditinalspers@.com.br
+2-Patrin follers staytion patrnfollersstaytion88@gmail.com
+3-castition pretty solen castitionprettysolen@gmail.com
 
-1-Hauay chine
-2-Sunchine exportation
-3-Taysuan kongbit 
+1-Hauay chine hauaychine@22gmail.com
+2-Sunchine exportation sunchineexportation@gmail.com.br
+3-Taysuan kongbit taysuankongboy20@.gmail.com.br
 
-1-Folly Dont esporte 
-2-For Beaut modelling
-3-Roller System skin
+1-Folly Dont sport follydontsport@gmail.com
+2-For Beaut modelling forbeautmodelling45@gmail.com
+3-Roller System skin rollersystemskin@.com.br
 
 
 
