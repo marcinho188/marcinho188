@@ -60,7 +60,7 @@ compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W0
 02-colchoes de espuma solteiro 
 03- ursinhos de pelúcia 
 
-IMPORTACION DE PRODUTOS NACIONAIS 
+EXPORTATION DESTRIBUICION IMPORTACION DE PRODUTOS NACIONAIS 
 12000-pares de sapatos vulcabras 
 5.000 Motobikes elétrica 
 2.000 caixas de ferramentas de alumínio 
@@ -83,13 +83,19 @@ IMPORTACION DE PRODUTOS NACIONAIS
 
 Exportation: lista de 3 paises 9 clientes in USA, CHINA, EUROPE 
 
+USA 
+
 1- Amercans traditional espers americanstraditinalspers@.com.br
 2-Patrin follers staytion patrnfollersstaytion88@gmail.com
 3-castition pretty solen castitionprettysolen@gmail.com
 
+CHINA
+
 1-Hauay chine hauaychine@22gmail.com
 2-Sunchine exportation sunchineexportation@gmail.com.br
 3-Taysuan kongbit taysuankongboy20@.gmail.com.br
+
+EUROPE 
 
 1-Folly Dont sport follydontsport@gmail.com
 2-For Beaut modelling forbeautmodelling45@gmail.com
