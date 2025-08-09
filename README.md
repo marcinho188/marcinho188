@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 1- telefones de clientes: 11-37900165-9976546756
 2-telefones de fornecedores:11-9920054546-9982056785
 
-3- comércio bom é um estabelecimento de produtos nacionais e importados produtos diversos geral de alta qualidade tudo que você possa acreditar.
+3- comércio bom é um estabelecimento de produtos nacionais e importados produtos diversos geral de alta qualidade tudo que você possa acreditar de ótima qualidade.
 endereço: avenida do Rio pequeno N:350 Butantã São Paulo-sp cp:05379-000 telefone:11-37190066-11-9942834689-11-99430065029.
 
 entrada de mercadorias ESTOQUE de MERCADORIAS da LOJA
