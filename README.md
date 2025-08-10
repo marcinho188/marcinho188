@@ -33,7 +33,7 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 
 
 
-endereço de entrega avenida Rio pequeno N°380 são Paulo cp:05379-000
+endereço de entrega avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
 
 saída de mercadorias da loja
 
