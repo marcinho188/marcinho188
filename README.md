@@ -102,6 +102,26 @@ EUROPE
 3-Roller System skin rollersystemskin@.com.br
 
 
+USA
+
+1-@americanstraditionalers espers.com
+2-@patrinfollersstaytion88
+3-@castitionprettysolen.com
+
+
+CHINA 
+
+1-@hauaychine22.com
+2-@sunchineexportation.com
+3-@taysuankongbit20.com
+
+
+EUROPE 
+
+1-@follydontsport.com
+2-@forbeautmodelling45.com
+3-@rollersystemskin.com
+
 
 
 
