@@ -32,11 +32,14 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 50-monitores tv computador da marca Philco 21 polegadas 
 120- aparelhos de tablet 10 polegadas touchs plus da marca priton 
 180 caixas de ferramentas ou jóias 35×14 de inox 
+250 fritadeiras da marca sugar de inox
+320 faqueiros Tramontina inox 75 peças 
+120 conjuntos de mesa e 6 cadeiras da marca Bartira 
 
 
 
 
-endereço de entrega avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
+endereço de entrega e saída  de "mercadorias produtos"avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
 
 saída de mercadorias da loja
 
@@ -62,6 +65,15 @@ endereço: Artur SOTER Lopes Silva N° 24 Rio pequeno São Paulo SP
 compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W076 id:BR25777893666271
 02-colchoes de espuma solteiro 
 03- ursinhos de pelúcia 
+
+cliente: Leonel Pereira Canticó
+Telefone:11-39087852 Cel:11998974951
+
+Endereço: Av: faria lima N:1200 Pinheiros-São Paulo -sp CEP:010222999
+entrega: 06/10/2025 às 15:10 produto pedido 150620MRT9R185 -ID do produto:BR43769854237654
+50 aparelhos de tablet da marca priton touchs 10 plus
+05 aparelhos de televisão 32 4k Samsung 1.100,00 cada uma.
+vendedor Marcio G.M
 
 EXPORTATION DESTRIBUICION IMPORTACION DE PRODUTOS NACIONAIS 
 12000-pares de sapatos vulcabras 
