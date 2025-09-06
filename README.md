@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 3- comércio bom é um estabelecimento de produtos nacionais e importados produtos diversos geral de alta qualidade tudo que você possa acreditar de ótima qualidade.
 endereço: avenida do Rio pequeno N:350 Butantã São Paulo-sp cp:05379-000 telefone:11-37190066-11-9942834689-11-99430065029.
 
+--------------------------
 entrada de mercadorias ESTOQUE de MERCADORIAS da LOJA
 
 4-gerenciamento de preço 
@@ -38,16 +39,17 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 
 
 
-
+--------------------------
 endereço de entrega e saída  de "mercadorias produtos"avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
 
 saída de mercadorias da loja
 
-
+cliente:
 cadastro:empresa sofhist varejo atacado
 data 9/07/2025 20 aparelhos de barbear valor da unidade(1) 150,00
 valor da compra 3.000,00
-forma do pagamento débito pagamento avista vendedor Marcio
+forma do pagamento débito pagamento avista vendedor Marcio G.M
+---------
 data 16/07.2025
 2 aparelhos de televisão 32 polegadas 4k Samsung no valor de 999,00 cada uma.
 data 25/07/2025
@@ -55,8 +57,8 @@ data 25/07/2025
 02-fogoes 6 bocas.
 02-colchoes de espuma 
 03-ursinhos de pelúcia 
-
-12- espaço para ENTREGAS de clientes da loja.
+-------------
+12- espaço para ENTREGAS dos clientes da loja.
 
 
 1° cliente:jacarto Oliveira prestes-telefone:11-cel 920056987 residencial:1137248900
@@ -66,7 +68,7 @@ compra   data da entrega:31/07/2025 às 14:00 id do produto: pedido 250418HMH7W0
 02-colchoes de espuma solteiro 
 03- ursinhos de pelúcia 
 
-cliente: Leonel Pereira Canticó
+2°-cliente: Leonel Pereira Canticó
 Telefone:11-39087852 Cel:11998974951
 
 Endereço: Av: faria lima N:1200 Pinheiros-São Paulo -sp CEP:010222999
@@ -74,7 +76,7 @@ entrega: 06/10/2025 às 15:10 produto pedido 150620MRT9R185 -ID do produto:BR437
 50 aparelhos de tablet da marca priton touchs 10 plus
 05 aparelhos de televisão 32 4k Samsung 1.100,00 cada uma.
 vendedor Marcio G.M
-
+--------------------------
 EXPORTATION DESTRIBUICION IMPORTACION DE PRODUTOS NACIONAIS 
 12000-pares de sapatos vulcabras 
 5.000 Motobikes elétrica 
@@ -95,7 +97,7 @@ EXPORTATION DESTRIBUICION IMPORTACION DE PRODUTOS NACIONAIS
 10.000 calças jeans 
 10.000 calças social em cores diversas 
 10.000 mochilas masculina e feminina em couro ecológico em cores diversas 
-
+--------------------------
 Exportation: lista de 3 paises 9 clientes in USA, CHINA, EUROPE 
 
 USA 
@@ -116,7 +118,7 @@ EUROPE
 2-For Beaut modelling forbeautmodelling45@gmail.com
 3-Roller System skin rollersystemskin@.com.br
 
-
+-------------------------
 USA
 
 1-@americanstraditionalers espers.com
