@@ -34,7 +34,7 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 250 fritadeiras da marca sugar de inox
 320 faqueiros Tramontina inox 75 peças 
 120 conjuntos de mesa e 6 cadeiras da marca Bartira
-150 telefones celular de mesa laser 
+04/10/2025 150 telefones celular de mesa laser 
 100 aparelhos de iPhone Apple 16 gigas
 200 Notebook positivo 64 gigas 4 gigas de ram
 
