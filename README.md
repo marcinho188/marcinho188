@@ -33,7 +33,11 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 180 caixas de ferramentas ou jóias 35×14 de inox 
 250 fritadeiras da marca sugar de inox
 320 faqueiros Tramontina inox 75 peças 
-120 conjuntos de mesa e 6 cadeiras da marca Bartira 
+120 conjuntos de mesa e 6 cadeiras da marca Bartira
+150 telefones celular de mesa laser 
+100 aparelhos de iPhone Apple 16 gigas
+200 Notebook positivo 64 gigas 4 gigas de ram
+
 --------------------------
 endereço de entrega e saída  de "mercadorias produtos"avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
 
