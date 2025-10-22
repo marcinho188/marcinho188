@@ -37,6 +37,8 @@ estoque:50 barbeador-200 shampoos 20 forninho sugar 52 litros-15 aparelho de jan
 04/10/2025 150 telefones celular de mesa laser 
 100 aparelhos de iPhone Apple 16 gigas
 200 Notebook positivo 64 gigas 4 gigas de ram
+300 cpinhas de iphone apple 15
+180 radios relogios Mitsubishi 
 
 --------------------------
 endereço de entrega e saída  de "mercadorias produtos"avenida Rio pequeno N°380 telefone:11-38761856 11-9598783261são Paulo cp:05379-000
@@ -74,6 +76,28 @@ entrega: 06/10/2025 às 15:10 produto pedido 150620MRT9R185 -ID do produto:BR437
 50 aparelhos de tablet da marca priton touchs 10 plus
 05 aparelhos de televisão 32 4k Samsung 1.100,00 cada uma.
 vendedor Marcio G.M
+
+3° cliente: João Barroso Teixeira
+telefones:1139289950 e cel:11977896784
+
+endereço:av:joaquim Seabra N:354 Rio pequeno Jaguaré-São Paulo- sp cep:528456731
+entrega:22/10/2025 às 10:56 produto produto Perdido N 233155mrt9s243-id do produto:BR7870897568463
+28 radios relogio da marca Mitsubishi 
+03 fogoes continental 4 bocas
+30 fritadeiras da marca sugar de inox
+vendedor:Marcio G.M
+_______________________________________
+
+controle de estoque
+											
+02-colchao de solteiro
+03 ursinhos de pelúcia
+50 aparelhos de tablet damarca pritom plus 
+05 aparelhos de televisāo 32 K Samsung 
+28 radios relogio da marca Mitsubishi 
+03 fogoes continental 4 bocas 
+30 fritadeiras da marca sugar de inox 
+
 __________________________
 EXPORTATION DESTRIBUICION IMPORTACION DE PRODUTOS NACIONAIS 
 12000-pares de sapatos vulcabras 
